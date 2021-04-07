@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @felixbdev
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning ... HTML CSS JS VUE
-- 📫 How to reach me felixbdev@gmailc.om
+Hola, soy @felixbdev
+Mi intereses estan en el mundo del desarrollo web Front-End, todo aquello que tiene que ver con creatividad, en constante aprendizaje.
+Actualmente manejo HTML, CSS, Javascript y me encuentro aprendiendo Vue.JS
+Puedes escribirme a traves de mi correo personal felixbdev@gmail.com
+~Haz que vean lo mejor de ti :D
 
 <!---
 felixbdev/felixbdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
